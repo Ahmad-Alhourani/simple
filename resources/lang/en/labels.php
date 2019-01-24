@@ -124,6 +124,7 @@ return [
             'table' => [
                 'id' => "Id",
                 'name' => "Name",
+                'l_name' => "Last Name",
                 'email' => "Email",
                 'sms' => "SMS",
                 'sort' => 'Sort',
