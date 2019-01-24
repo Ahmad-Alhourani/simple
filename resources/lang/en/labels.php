@@ -114,6 +114,7 @@ return [
             ]
         ],
 
+        ,
         //start_Test_start
         'tests' => [
             'management' => ' Tests Management',
@@ -124,6 +125,7 @@ return [
             'table' => [
                 'id' => "Id",
                 'name' => "Name",
+                'l_name' => "Last Name",
                 'email' => "Email",
                 'sms' => "SMS",
                 'sort' => 'Sort',

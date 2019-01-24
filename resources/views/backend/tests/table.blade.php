@@ -5,6 +5,8 @@
                 
                  <th>@sortablelink('name', trans('labels.backend.tests.table.name')) </th>
                 
+                 <th>@sortablelink('l_name', trans('labels.backend.tests.table.l_name')) </th>
+                
                  <th>@sortablelink('email', trans('labels.backend.tests.table.email')) </th>
                 
                  <th>{{ __('labels.backend.tests.table.sms') }}</th>
@@ -17,6 +19,7 @@
         <tr>
              
                 <td>{{  $test->name }}</td>  
+                <td>{{  $test->l_name }}</td>  
                 <td>{{  $test->email }}</td>  
                 <td>{{  $test->sms }}</td>  
                 
