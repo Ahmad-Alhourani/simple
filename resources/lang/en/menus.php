@@ -49,10 +49,24 @@ return [
             'system' => 'System',
 
             //begin_Test_begin
+            'tests' => ' Tests',
+            //finish_Test_finish
+            //begin_Test_begin
             'tests' => ' Tests'
             //finish_Test_finish
             // **********Do_Not_Delete_me****************
         ],
+
+        //start_Test_start
+        'tests' => [
+            'view' => 'View Test',
+            'all' => 'All  Tests',
+            'create' => 'Create Test',
+            'edit' => 'Edit Test',
+            'management' => 'Test Management',
+            'main' => ' Tests'
+        ],
+        //end_Test_end
 
         //start_Test_start
         'tests' => [

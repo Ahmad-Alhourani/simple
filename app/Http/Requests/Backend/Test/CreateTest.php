@@ -32,6 +32,8 @@ class CreateTest extends FormRequest
 
             'name' => 'required',
 
+            'l_name' => 'required',
+
             'email' => 'required',
 
             'sms' => 'nullable'
