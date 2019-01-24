@@ -199,6 +199,7 @@ return [
             'tests' => [
                 'id' => "Id",
                 'name' => "Name",
+                'l_name' => "Last Name",
                 'email' => "Email",
                 'sms' => "SMS"
             ]
