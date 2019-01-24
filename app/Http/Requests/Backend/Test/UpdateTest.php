@@ -32,7 +32,7 @@ class UpdateTest extends FormRequest
 
             'name' => 'required',
 
-            'l_name' => 'required',
+            'l_name' => 'nullable',
 
             'email' => 'required',
 
