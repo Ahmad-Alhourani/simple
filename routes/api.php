@@ -21,4 +21,9 @@ Route::resource('test', 'API\TestAPIController');
 
 //end_Test_end
 
+//start_Test_start
+Route::resource('test', 'API\TestAPIController');
+
+//end_Test_end
+
 //*****Do Not Delete Me

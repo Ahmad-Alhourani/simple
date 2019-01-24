@@ -49,6 +49,14 @@ return [
             'saved' => 'Test saved successfully.',
             'updated' => 'Test updated successfully.',
             'deleted' => 'Test deleted successfully.'
+        ],
+        //end_Test_end
+
+        //start_Test_start
+        'test' => [
+            'saved' => 'Test saved successfully.',
+            'updated' => 'Test updated successfully.',
+            'deleted' => 'Test deleted successfully.'
         ]
         //end_Test_end
 
