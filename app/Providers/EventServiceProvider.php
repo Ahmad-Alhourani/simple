@@ -43,6 +43,7 @@ class EventServiceProvider extends ServiceProvider
         \App\Listeners\Backend\Auth\User\UserEventListener::class,
         \App\Listeners\Backend\Auth\Role\RoleEventListener::class,
 
+        ,
         //start_Test_start
         \App\Listeners\Backend\TestEventListener::class
         //end_Test_end

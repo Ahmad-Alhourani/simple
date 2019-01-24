@@ -48,12 +48,14 @@ return [
             'history' => 'History',
             'system' => 'System',
 
+            ,
             //begin_Test_begin
             'tests' => ' Tests'
             //finish_Test_finish
             // **********Do_Not_Delete_me****************
         ],
 
+        ,
         //start_Test_start
         'tests' => [
             'view' => 'View Test',
